@@ -82,13 +82,8 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
-<!-- Place the following link anywhere in your page. -->
-<ul>
-<li><a id="s_lc_event_12203610" href="https://calendar.library.ucla.edu/event/12203610">REGISTER for Part 1</a></li>  
-<li><a id="s_lc_event_12203610" href="https://calendar.library.ucla.edu/event/12203612">REGISTER for Part 2</a></li>
-</ul>
-<!-- Place the following link anywhere in your page. -->
 <a id="s_lc_event_12203610" href="https://calendar.library.ucla.edu/event/12203610"><button type="button" class="btn btn-info">Register for Part 1</button></a>
+<a id="s_lc_event_12203612" href="https://calendar.library.ucla.edu/event/12203612"><button type="button" class="btn btn-info">REGISTER for Part 2</button></a>
 
 <h2 id="general">General Information</h2>
 
