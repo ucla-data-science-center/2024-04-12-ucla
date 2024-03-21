@@ -83,7 +83,10 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 <!-- Place the following link anywhere in your page. -->
-<a id="s_lc_event_12203610" href="https://calendar.library.ucla.edu/event/12203610">REGISTER for Part 1</a>
+<ul>
+<li><a id="s_lc_event_12203610" href="https://calendar.library.ucla.edu/event/12203610">REGISTER for Part 1</a></li>  
+<li><a id="s_lc_event_12203610" href="https://calendar.library.ucla.edu/event/12203612">REGISTER for Part 2</a></li>
+</ul>
 
 <!-- Below is optional element styling  //-->
 <style>
