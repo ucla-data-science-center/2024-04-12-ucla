@@ -87,6 +87,24 @@ displayed if the 'eventbrite' field in the header is not set.
 <li><a id="s_lc_event_12203610" href="https://calendar.library.ucla.edu/event/12203610">REGISTER for Part 1</a></li>  
 <li><a id="s_lc_event_12203610" href="https://calendar.library.ucla.edu/event/12203612">REGISTER for Part 2</a></li>
 </ul>
+<!-- Place the following link anywhere in your page. -->
+<a id="s_lc_event_12203610" href="https://calendar.library.ucla.edu/event/12203610">Register for Part 1</a>
+
+<!-- Below is optional element styling  //-->
+<style>
+#s_lc_event_12203610 {
+  background: #FFD100;
+  border: 1px solid #FFD100;
+  border-radius: 4px;
+  color: #003B5C;
+  font: 18px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#s_lc_event_12203610:hover {
+  opacity: 0.9;
+}
+</style>
 
 <!-- Below is optional element styling  //-->
 <style>
